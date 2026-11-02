@@ -1,0 +1,10 @@
+# Only the app code goes into the Render image
+*.geojson
+*.json
+*.txt
+*.mov
+*.mp4
+*.zip
+*.pdf
+.DS_Store
+.git
